@@ -1,7 +1,7 @@
 <nav id="principal">
     <ul>
         <li>
-            <a href="">
+            <a href="./user">
                 <i class="fa fa-address-book"></i>
                 <h3>Usuários</h3>
             </a>

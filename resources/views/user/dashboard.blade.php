@@ -4,7 +4,6 @@
 @endsection
 
 @section('conteudo-view')
-Deashboard
 @endsection
 
 @section('js-view')
